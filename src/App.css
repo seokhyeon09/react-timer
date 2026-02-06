@@ -1,0 +1,17 @@
+.game-container{
+  background-color:aliceblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.tit-wrap{
+  position: relative;
+}
+.img{
+    position: absolute;
+    top: -50%;
+    left: 37%;
+    width: 100px;
+}

@@ -10,7 +10,7 @@ function App() {
       <div className='game-container'>
         <div className='tit-wrap'>
           <h1>타이머 앱</h1>
-          {<img src="./../../public/icon-timer.png" alt="타이머" className='img'/>}
+          {<img src="/icon-timer.png" alt="타이머" className='img'/>}
         </div>
         <Timer />
 
